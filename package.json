@@ -1,0 +1,21 @@
+{
+  "name": "com.playdarium.pdnetwork",
+  "displayName": "Network framework",
+  "description": "Network framework",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/nazgull30/pdnetwork.git#upm"
+  },
+  "author": {
+    "name": "playdarium",
+    "email": "playdarium@gmail.com",
+    "url": "https://playdarium.com"
+  },
+  "dependencies": {},
+  "keywords": [
+    "network"
+  ]
+}
